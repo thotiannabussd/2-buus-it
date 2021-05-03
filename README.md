@@ -1,2 +1,2 @@
-# 2-buus-it
+# 2-buss-it
 smack the 2 buss
